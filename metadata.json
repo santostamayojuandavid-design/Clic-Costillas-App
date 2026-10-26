@@ -1,0 +1,6 @@
+{
+  "name": "ClicLogistics AI - Clic Costillas",
+  "description": "Sistema inteligente de gestión logística integral y control RBAC para la cocina oculta Clic Costillas (Ahumados al Cilindro Peruano).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
